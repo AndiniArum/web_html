@@ -7,9 +7,9 @@
 <form method="POST" action=" " name="form_kursus">
   <table width="100%">
   <tr>
-    <td>Nama</td>
-    <td>:</td>
-    <td><input type="text" name="nama" size="39"></td>
+    <td> Nama </td>
+    <td> : </td>
+    <td> <input type="text" name="nama" size="39"> </td>
   </tr>
   </table>
   </form>
