@@ -1,9 +1,9 @@
 <html>
 <head>
-<title> formulir</title>
+<title> FORMULIR </title>
 </head>
 <body>
-<p><b>formulir Pendaftaran kursus </b></p>
+<p><b>Formulir Pendaftaran Kursus </b></p>
 <form method="POST" action=" " name="form_kursus">
   <table width="100%">
   <tr>
@@ -11,6 +11,13 @@
     <td>:</td>
     <td><input type="text" name="nama" size="39"></td>
   </tr>
+  
+  <tr>
+    <td> Alamat </td>
+    <td>:</td>
+    <td> <input type = "text" name = "nama" size = "39"> </td>
+  </tr>
+  
   </table>
   </form>
   </body>
