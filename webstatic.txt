@@ -10,7 +10,15 @@
     <td>Nama</td>
     <td>:</td>
     <td><input type="text" name="nama" size="39"></td>
+
   </tr>
+  <tr><td>
+  jenis kelamin</td>
+  <td>
+  </td>
+  <td><input type = "radio" value "L" chacked
+  name ="jkl">Laki-laki
+  <input type = "radio" name = "jkl" value = "P">Perempuan</td></tr>
   </table>
   </form>
   </body>
